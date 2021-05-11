@@ -1,0 +1,2 @@
+在该文件夹创建了git库，在github里先commit, 再pull就可以了
+已经在我的github里面添加了新的ssh
