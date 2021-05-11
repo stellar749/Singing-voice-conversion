@@ -1,2 +1,5 @@
 在该文件夹创建了git库，在github里先commit, 再pull就可以了
 已经在我的github里面添加了新的ssh
+本地git仓库与远程库一一对应，现已将pr_hw本地库连接到sing远程库
+
+git clone git@github.com:Jeremih1999/Singing-voice-conversion.git
